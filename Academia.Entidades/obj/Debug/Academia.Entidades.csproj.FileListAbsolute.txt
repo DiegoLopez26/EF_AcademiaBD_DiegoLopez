@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\obj\Debug\Academia.Entidades.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\obj\Debug\Academia.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\User\OneDrive\Documentos\Practicas Visual Studio_C#\Practicas ciclo3\EF_AcademiaNCapas_DiegoLopez\Academia.Entidades\obj\Debug\Academia.Entidades.pdb
